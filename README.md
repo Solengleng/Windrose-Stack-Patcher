@@ -30,17 +30,6 @@
   <img src="https://img.shields.io/badge/Languages-EN%20%7C%20RU-lightgrey?style=flat-square" alt="EN RU">
 </p>
 
-<hr>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=flat-square" alt="Windows">
-  <img src="https://img.shields.io/badge/Game-Windrose-orange?style=flat-square" alt="Windrose">
-  <img src="https://img.shields.io/badge/Stack_Options-14-success?style=flat-square" alt="14 Stack Options">
-  <img src="https://img.shields.io/badge/Version-v1.0-yellow?style=flat-square" alt="v1.0">
-  <img src="https://img.shields.io/badge/Languages-EN%20%7C%20RU-lightgrey?style=flat-square" alt="EN RU">
-</p>
-
-<hr>
 
 
 # Windrose Stack Patcher
