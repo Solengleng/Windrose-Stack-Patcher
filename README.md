@@ -7,6 +7,7 @@ Stop wasting time on constant inventory management — loot more, craft faster, 
 
 ![Uploading image.png…]()
 
+
 ### Features
 
 - Modern dark-themed GUI built with Dear ImGui
