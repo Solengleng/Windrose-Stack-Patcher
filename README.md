@@ -132,6 +132,147 @@ The author is not responsible for any issues, corrupted saves, or balance proble
 
 ---
 
+## SEO Hub: Keywords, Phrases, Search Intents
+
+This section is designed to improve discoverability for users searching Windrose stack size tools, inventory mods, QoL patches, and installation guidance.
+
+### Core Query Cluster
+windrose stack patcher  
+windrose stack size changer  
+windrose max stack mod  
+windrose stack multiplier  
+windrose inventory mod  
+windrose bigger stacks  
+windrose stack patcher download  
+download windrose stack patcher  
+windrose qol mod  
+windrose stack size mod 2026  
+
+### Version & Compatibility Cluster
+windrose stack patcher v1.0  
+windrose stack patcher latest version  
+windrose stack patcher 2026  
+windrose early access stack mod  
+windrose stack patcher windows 10  
+windrose stack patcher windows 11  
+windrose stack patcher steam  
+windrose r5 stack size mod  
+
+### Stack Size Features Cluster
+windrose x5 stack  
+windrose x10 stack  
+windrose 999999 stack  
+windrose x100 stack  
+windrose infinite stack mod  
+windrose bigger inventory  
+windrose stack size multiplier  
+windrose max stack 999999  
+windrose recommended stack size  
+
+### QoL & Utility Cluster
+windrose inventory qol  
+windrose less inventory management  
+windrose auto stack mod  
+windrose one click stack changer  
+windrose gui stack patcher  
+windrose comfortable stacking  
+windrose balance warning stack mod  
+
+### Installation & Usage Cluster
+how to install windrose stack patcher  
+windrose stack patcher installation guide  
+windrose stack patcher setup  
+windrose ~mods folder  
+windrose stack patcher run as administrator  
+windrose stack patcher game path not found  
+windrose stack patcher how to use  
+windrose stack patcher quick start  
+
+### Troubleshooting Cluster
+windrose stack patcher not working  
+windrose stack patcher game not found  
+windrose stack patcher ~mods not created  
+windrose stack patcher antivirus false positive  
+windrose stack patcher remove all mods  
+windrose stack patcher failed to apply  
+
+### Safe Usage Cluster
+windrose stack patcher single player only  
+windrose stack patcher multiplayer warning  
+windrose stack patcher balance warning  
+windrose stack patcher responsible use  
+windrose stack patcher backup saves  
+windrose stack patcher x100 breaks balance  
+
+### Long-Tail SEO Phrases (High Intent)
+best windrose stack patcher 2026  
+windrose stack patcher with 14 stack options  
+windrose x5 recommended stack mod download  
+how to increase stack size in windrose  
+windrose stack patcher gui tool one click  
+windrose max stack 999999 safe version  
+windrose inventory mod x10 vs 999999  
+windrose stack patcher installation guide 2026  
+windrose qol mod bigger stacks comfortable play  
+windrose stack size changer steam version  
+
+### SEO-Ready Meta Description Variants (Copy One)
+
+1. Download Windrose Stack Patcher v1.0 — the easiest GUI tool to increase item stack sizes in Windrose. 14 options from ×5 (recommended) to ×100 with automatic ~mods installation and balance warnings.
+
+2. Windrose Stack Patcher — modern one-click stack size changer for Windrose. Change maximum stack from ×2 to 999,999 instantly. Perfect QoL mod for better inventory management.
+
+3. Easy and powerful Windrose stack size mod with clean GUI. Apply ×5, ×10, 999,999 or ×100 in one click. Automatic game path detection and safe mod installation.
+
+### SEO Intro Paragraph Templates (Copy One)
+
+**Template A (Neutral)**  
+Windrose Stack Patcher v1.0 is a clean and user-friendly GUI tool designed to increase maximum item stack sizes in Windrose. It offers 14 different stack options with automatic ~mods folder creation and clear balance warnings.
+
+**Template B (Feature-Heavy)**  
+Windrose Stack Patcher allows you to instantly change stack sizes with 14 options including ×5 (recommended), ×10, 999,999 and ×100. Modern dark GUI, automatic Steam path detection and one-click application.
+
+**Template C (Guide-Focused)**  
+Use this repository to download and set up Windrose Stack Patcher. Includes full feature list, installation instructions, balance warnings, troubleshooting steps and safe usage recommendations for single-player.
+
+### Suggested Repository Topics (GitHub Topics)
+windrose  
+windrose-mod  
+windrose-qol  
+stack-patcher  
+stack-size-mod  
+inventory-mod  
+max-stack  
+qol-mod  
+game-patcher  
+steam-mod  
+windows-tool  
+single-player  
+
+### SEO-Friendly Image ALT Text Pack
+- Windrose Stack Patcher v1.0 main interface with 14 stack options
+- Windrose Stack Patcher GUI showing ×5 recommended selection
+- Windrose Stack Patcher applying stack size with confirmation
+- Windrose Stack Patcher dark theme interface screenshot
+- Windrose Stack Patcher ~mods folder automatic creation
+- Windrose Stack Patcher balance warning for x100 and 999999
+
+### SEO Headline Variants
+**H1 Options**
+- Windrose Stack Patcher v1.0
+- Windrose Stack Size Changer – One Click Max Stack Mod
+- Download Windrose Stack Patcher – Increase Stack Size Easily
+
+**H2 Options**
+- Complete Stack Size Options List
+- How to Install Windrose Stack Patcher
+- Troubleshooting: Game Path Not Found
+- Balance Warnings and Safe Usage
+- Changelog & Latest Release
+
+### Compact SEO Footer Block
+Windrose Stack Patcher v1.0 for PC. Easy GUI tool to increase item stack sizes in Windrose. 14 stack options including ×5 (recommended), ×10, 999,999 and ×100. Automatic ~mods installation, balance warnings and one-click apply. Perfect QoL mod for single-player.
+
 ### SEO Keywords (для поиска)
 
 windrose stack patcher, windrose stack size mod, windrose bigger stacks, windrose inventory mod, windrose qol mod, windrose x5 stack, windrose 999999 stack, windrose max stack, windrose mod 2026, windrose early access mods
