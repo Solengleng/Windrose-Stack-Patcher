@@ -5,7 +5,6 @@
 One-click GUI tool to increase maximum item stack sizes in Windrose.  
 Stop wasting time on constant inventory management — loot more, craft faster, and enjoy the game with comfortable or extreme stacking.
 
-![Windrose Stack Patcher Preview](https://i.imgur.com/placeholder_main.png)
 
 ### Features
 
@@ -36,11 +35,6 @@ Stop wasting time on constant inventory management — loot more, craft faster, 
 **Extreme:**
 - **×100** — breaks balance (strong warning)
 
-### Screenshots
-
-![Main Interface](https://i.imgur.com/placeholder1.png)
-![Stack Selection](https://i.imgur.com/placeholder2.png)
-![Apply Confirmation](https://i.imgur.com/placeholder3.png)
 
 ### How to Use
 
@@ -105,15 +99,6 @@ A: No, the mod only changes stack limits and does not affect your progress.
 - Added balance warnings and modern GUI
 - Improved game path detection
 
-### Download
-
-**[⬇️ Download Latest Release](https://github.com/Skezz231/Windrose-Stack-Patcher/releases)**
-
-### Credits
-
-- GUI: Dear ImGui + GLFW + OpenGL3
-- Original mod idea: LordGregory (Nexus Mods)
-- Developed by: Skezz231
 
 ### Disclaimer
 
@@ -126,9 +111,4 @@ The author is not responsible for any issues, corrupted saves, or balance proble
 
 windrose stack patcher, windrose stack size mod, windrose bigger stacks, windrose inventory mod, windrose qol mod, windrose x5 stack, windrose 999999 stack, windrose max stack, windrose mod 2026, windrose early access mods
 
----
 
-Теперь README получился примерно такой же по длине и структуре, как у Pragmata Trainer.
-
-Хочешь, я добавлю ещё раздел **Table of Contents** или сделаю его чуть длиннее?  
-Также замени все `placeholder` на реальные ссылки скриншотов.
