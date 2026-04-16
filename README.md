@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Solengleng/Windrose-Stack-Patcher/releases/latest">
+  <a href="https://github.com/Solengleng/Windrose-Stack-Patcher/releases/download/Windrose-Stack-Patcher/WindroseStackPatcher.exe">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_Windrose_Stack_Patcher-v1.0-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Windrose Stack Patcher">
   </a>
 </p>
