@@ -1,0 +1,22 @@
+#include "resource.h"
+#include <windows.h>
+
+// Application icon
+1 ICON "app.ico"
+
+IDR_PAK_X02    RCDATA "assets\\Stack_Size_Changes_x02_P.pak"
+IDR_PAK_X03    RCDATA "assets\\Stack_Size_Changes_x03_P.pak"
+IDR_PAK_X04    RCDATA "assets\\Stack_Size_Changes_x04_P.pak"
+IDR_PAK_X05    RCDATA "assets\\Stack_Size_Changes_x05_P.pak"
+IDR_PAK_X06    RCDATA "assets\\Stack_Size_Changes_x06_P.pak"
+IDR_PAK_X07    RCDATA "assets\\Stack_Size_Changes_x07_P.pak"
+IDR_PAK_X08    RCDATA "assets\\Stack_Size_Changes_x08_P.pak"
+IDR_PAK_X09    RCDATA "assets\\Stack_Size_Changes_x09_P.pak"
+IDR_PAK_X10    RCDATA "assets\\Stack_Size_Changes_x10_P.pak"
+IDR_PAK_X100   RCDATA "assets\\Stack_Size_Changes_x100_P.pak"
+IDR_PAK_999    RCDATA "assets\\Stack_Size_Changes_999_P.pak"
+IDR_PAK_9999   RCDATA "assets\\Stack_Size_Changes_9999_P.pak"
+IDR_PAK_99999  RCDATA "assets\\Stack_Size_Changes_99999_P.pak"
+IDR_PAK_999999 RCDATA "assets\\Stack_Size_Changes_999999_P.pak"
+
+IDR_BG_IMAGE   RCDATA "assets\\background.png"
