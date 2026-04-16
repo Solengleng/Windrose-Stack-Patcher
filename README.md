@@ -78,6 +78,23 @@ Changes apply instantly. It is recommended to restart the game after applying th
 **Need to remove the mod?**
 - Click the red **Remove all mods** button.
 
+### 📁 Project Structure
+
+```bash
+Windrose-Stack-Patcher/
+├── assets/                  # Contains all stack size .pak files (14 variants)
+├── src/                     # Source code folder
+│   ├── main.cpp             # Main entry point with ImGui window
+│   ├── gui.cpp              # GUI rendering and user interaction
+│   ├── game_path.cpp        # Automatic Steam path detection
+│   └── mod_patcher.cpp      # Core logic for applying mods
+├── CMakeLists.txt           # Build system configuration
+├── README.md
+├── app.ico                  # Program icon
+├── resource.h
+└── resources.rc             # Windows resource file
+
+
 ### FAQ
 
 **Q: Is this a cheat?**  
