@@ -1,9 +1,3 @@
-<h1 align="center">Windrose Stack Patcher v1.0</h1>
-<p align="center">
-  Modern GUI tool to easily increase maximum item stack sizes in Windrose.<br>
-  One click to apply comfortable or extreme stack multipliers — perfect for better inventory management.
-</p>
-
 <p align="center">
   <a href="https://github.com/Solengleng/Windrose-Stack-Patcher/releases/download/Windrose-Stack-Patcher/WindroseStackPatcher.exe">
     <img src="https://img.shields.io/badge/Download_Windrose_Stack_Patcher-v1.0-2ea44f?style=for-the-badge" alt="Download Windrose Stack Patcher">
