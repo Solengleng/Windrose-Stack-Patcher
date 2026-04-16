@@ -79,23 +79,6 @@ Changes apply instantly. It is recommended to restart the game after applying th
 - Click the red **Remove all mods** button.
 
 
-### 📁 Project Structure
-
-```bash
-Windrose-Stack-Patcher/
-├── assets/                  # Contains all stack size .pak files (14 variants)
-├── src/                     # Source code folder
-│   ├── main.cpp             # Main entry point with ImGui window
-│   ├── gui.cpp              # GUI rendering and user interaction
-│   ├── game_path.cpp        # Automatic Steam path detection
-│   └── mod_patcher.cpp      # Core logic for applying mods
-├── CMakeLists.txt           # Build system configuration
-├── README.md
-├── app.ico                  # Program icon
-├── resource.h
-└── resources.rc             # Windows resource file
-
-
 ### FAQ
 
 **Q: Is this a cheat?**  
@@ -130,5 +113,21 @@ The author is not responsible for any issues, corrupted saves, or balance proble
 ### SEO Keywords (для поиска)
 
 windrose stack patcher, windrose stack size mod, windrose bigger stacks, windrose inventory mod, windrose qol mod, windrose x5 stack, windrose 999999 stack, windrose max stack, windrose mod 2026, windrose early access mods
+
+### 📁 Project Structure
+
+```bash
+Windrose-Stack-Patcher/
+├── assets/                  # Contains all stack size .pak files (14 variants)
+├── src/                     # Source code folder
+│   ├── main.cpp             # Main entry point with ImGui window
+│   ├── gui.cpp              # GUI rendering and user interaction
+│   ├── game_path.cpp        # Automatic Steam path detection
+│   └── mod_patcher.cpp      # Core logic for applying mods
+├── CMakeLists.txt           # Build system configuration
+├── README.md
+├── app.ico                  # Program icon
+├── resource.h
+└── resources.rc             # Windows resource file
 
 
