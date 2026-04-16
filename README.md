@@ -5,7 +5,7 @@
 One-click GUI tool to increase maximum item stack sizes in Windrose.  
 Stop wasting time on constant inventory management — loot more, craft faster, and enjoy the game with comfortable or extreme stacking.
 
-![Uploading image.png…]()
+<img width="855" height="635" alt="image" src="https://github.com/user-attachments/assets/fb6e8180-49af-4744-86dd-a65042e1b12c" />
 
 
 ### Features
