@@ -20,6 +20,22 @@
 
 <hr>
 
+## 📋 Table of Contents
+
+- [Overview](#overview)
+- [Compatibility](#compatibility)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage Guide](#usage-guide)
+- [Troubleshooting](#troubleshooting)
+- [Safety Notes](#safety-notes)
+- [FAQ](#faq)
+- [Changelog](#changelog)
+- [SEO Keywords](#seo-keywords)
+- [Download](#download)
+- [Disclaimer](#disclaimer)
+
 # Windrose Stack Patcher
 
 **Easy & Powerful Stack Size Changer for Windrose (2026)**
