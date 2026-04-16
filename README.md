@@ -79,7 +79,7 @@ Changes apply instantly. It is recommended to restart the game after applying th
 - Click the red **Remove all mods** button.
 
 
- ### 📁 Project Structure
+### 📁 Project Structure
 
 ```bash
 Windrose-Stack-Patcher/
