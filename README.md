@@ -40,14 +40,6 @@ Stop wasting time on constant inventory management — loot more, craft faster, 
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Solengleng/Windrose-Stack-Patcher/releases/latest">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_Windrose_Stack_Patcher_v1.0-2ea44f?style=for-the-badge&logo=download&logoColor=white&labelColor=2ea44f&fontSize=20" 
-         alt="Download Windrose Stack Patcher v1.0" 
-         width="420" 
-         height="70">
-  </a>
-</p>
 
 ### Features
 
